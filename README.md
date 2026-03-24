@@ -45,6 +45,22 @@ El sistema crea automáticamente el archivo de almacenamiento en el directorio d
 
 ---
 
+## 📸 Capturas
+
+Ventana de ingreso
+
+<img width="355" height="277" alt="image" src="https://github.com/user-attachments/assets/ae07549f-c16b-4ab8-842f-4f3e860edcaa" />
+
+Ingreso de datos, con control de fecha
+
+<img width="488" height="286" alt="image" src="https://github.com/user-attachments/assets/efa22c16-f9f9-4ad3-bfa0-aa4da9f1ac91" />
+
+Ventana de registros con Jtable
+
+<img width="351" height="363" alt="image" src="https://github.com/user-attachments/assets/3e168c4a-514d-4692-985d-bee7086bbe1e" />
+
+---
+
 ## 🧠 Conceptos aplicados
 - Recursividad
 - Algoritmos de ordenamiento
