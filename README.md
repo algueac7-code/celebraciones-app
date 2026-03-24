@@ -40,7 +40,7 @@ El sistema crea automáticamente el archivo de almacenamiento en el directorio d
 
 ## ▶️ Ejecución
 1. Abrir en NetBeans o IDE compatible
-2. Ejecutar clase principal
+2. Ejecutar clase EstructuraeDatosProyecto1V1_0.java
 3. Usar interfaz para gestionar celebraciones
 
 ---
